@@ -1,4 +1,4 @@
-# CapCraft
+# Language learning Project
 Welcome to our language learning platform! Our project aims to facilitate language acquisition through media immersion. By providing tools to translate subtitles and lyrics automatically, we empower learners not only to consume but also to understand content in foreign languages.
 
 ## Features
